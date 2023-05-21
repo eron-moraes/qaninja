@@ -1,0 +1,14 @@
+{
+  "name": "burger-eats",
+  "version": "1.0.0",
+  "description": "Projeto de testes de aceitação do app BurgerEats",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Eron Moraes",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.12.0"
+  }
+}
