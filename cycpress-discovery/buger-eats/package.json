@@ -1,7 +1,7 @@
 {
-  "name": "burger-eats",
+  "name": "buger-eats",
   "version": "1.0.0",
-  "description": "Projeto de testes de aceitação do app BurgerEats",
+  "description": "Projeto de testes de aceitação do App Buger-Eats",
   "main": "index.js",
   "scripts": {
     "test": "npx cypress open"
@@ -9,6 +9,6 @@
   "author": "Eron Moraes",
   "license": "MIT",
   "devDependencies": {
-    "cypress": "^12.12.0"
+    "cypress": "^12.13.0"
   }
 }
