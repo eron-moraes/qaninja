@@ -1,5 +1,3 @@
-
-
 describe('Cadastro', ()=>{
     it('Usuário deve se tornar um entregador', ()=>{
         cy.viewport(1440,900)
